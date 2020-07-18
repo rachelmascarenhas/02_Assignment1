@@ -12,6 +12,6 @@ public class TimeMain {
 		t2.settime(14,22);
 		System.out.println(t2);
 		t3=t2.sum(t1);
-    System.out.println(t3);
+                System.out.println(t3);
   }
 }  
